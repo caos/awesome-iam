@@ -116,7 +116,7 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [Kratos](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
 
-- [Zitadel](https://github.com/caos/zitadel) - An open-source solution in Go to manage all your systems, users and service accounts together with their roles, permissions, login flows and metadata.
+- [ZITADEL](https://github.com/caos/zitadel) - An open-source solution in Go to manage all your systems, users and service accounts together with their roles, permissions, login flows and metadata.
 
 - [Conjur](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
 
